@@ -1,0 +1,21 @@
+.red {
+  color: red;
+}
+.images {
+  width: 100%;
+}
+img {
+  width: 100%;
+  margin-top: 5px;
+  padding: 5px;
+  border: 1px solid black;
+}
+div {
+  margin-top: 2px;
+}
+#ajaxContent {
+  margin-top: 10px;
+}
+input {
+  margin-right: 5px;
+}
